@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 25, 2017, 2:50:41 PM
+    Author     : GabbyZ
+*/
+
+.jumbotron{
+    padding: 0%;
+}
+.wridricon{
+    width: 100%;
+}
+.About{
+    text-decoration: underline;
+    font-size: 50px;
+}
+.about_container{
+    font-size: 30px;
+}
+.Contact_Us{
+    text-decoration: underline;
+    font-size: 50px;
+}
+.contact_container{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.footer{
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.twittericon{
+    padding-right: 10px;
+}
+.instagramicon{
+    height: 65px;
+    padding-left: 10px;
+}
